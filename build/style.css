@@ -10,6 +10,11 @@ body {
     margin: 0;
 }
 
+h1 {
+    text-align: left;
+    color: white;
+}
+
 header {
     background-color: #373b69;
     display: flex;
