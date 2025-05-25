@@ -21,4 +21,4 @@ FindFlim is a web app that allows users to search movies dynamically by querying
 
 **LIVE DEMO**: https://findflim.onrender.com/
 
-*Built by Bandirevanth — empowering your cinematic explorations.*
+*Built by Bandi Revanth — empowering your cinematic explorations.*
